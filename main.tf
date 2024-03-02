@@ -1,6 +1,4 @@
 provider "aws" {
-  # access_key = "AKIAQ5XVWWK4XZUMI7VK"
-  # secret_key = "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"
   region = var.region
   //profile = **** //if we want to use some aws profile with terraform
 }
